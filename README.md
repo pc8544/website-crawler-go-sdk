@@ -7,6 +7,7 @@ poll the status of the crawl and retrieve the LLM ready JSON format data which c
 ## Installation
 ```bash
 go get github.com/pc8544/website-crawler-go-sdk
+```
 
 ### Usage
 Get your API key from (WebsiteCrawler.org)[https://www.websitecrawler.org) settings page. Update the example/demo.go file with your API key,
